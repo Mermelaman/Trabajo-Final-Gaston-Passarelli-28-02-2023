@@ -1,0 +1,76 @@
+#primerTitulo{
+
+    color: rgb(56, 56, 56);
+    font-weight: bolder;
+    padding: 30px;
+
+}
+
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/003/127/961/small/abstract-template-background-white-and-gray-squares-free-vector.jpg");
+    background-repeat: repeat-y;
+    background-size: cover;
+    min-height: 100vh;
+    padding-bottom: 3em ;
+    position:relative
+}
+
+#curriculum{
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+
+#presentacion {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-family: 'Roboto', sans-serif; 
+     margin:  45px
+     
+     
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+h5{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.footer{
+    position: absolute ;
+    bottom: 0%;
+    width: 100%;
+}
+
+#carrousel{
+    padding: 1em;
+    margin-bottom: 2em;
+    position:relative
+        
+
+}
+
+
+.sumas{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2rem;    
+
+}
+
+#botones{ padding: 3rem
+
+}
+
